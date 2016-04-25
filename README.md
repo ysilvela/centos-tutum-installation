@@ -12,3 +12,4 @@ HowTo Install CentOs and manage it by tutum
 9. Go to cloud.docker.com and bring you own node
 10. Paste the curl into you new server
 
+To configure a GIT server please refer to https://github.com/ysilvela/git-create-distribution-server-repository
