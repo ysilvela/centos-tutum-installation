@@ -1,5 +1,5 @@
-# centos-mumut-installation
-HowTo Install CentOs and manage it by mumut
+# centos-tutum-installation
+HowTo Install CentOs and manage it by tutum
 
 1. First, you need to download the iso file from centos page. Visit https://www.centos.org/download/ and select the minimal ISO distribution and download it from a near site.
 
