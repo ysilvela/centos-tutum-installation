@@ -13,3 +13,4 @@ HowTo Install CentOs and manage it by tutum
 10. Paste the curl into you new server
 
 To configure a GIT server please refer to https://github.com/ysilvela/git-create-distribution-server-repository
+To install, setupand run webadmin goto http://www.tecmint.com/install-webmin-web-based-system-administration-tool-for-rhel-centos-fedora/
